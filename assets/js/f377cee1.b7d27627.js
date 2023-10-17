@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotquestscn_Wiki=self.webpackChunknotquestscn_Wiki||[]).push([[890],{5745:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
